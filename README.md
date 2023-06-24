@@ -1,2 +1,2 @@
 # Grocery-Store
-ui design using html, css &amp; bootstarp
+web page ui design using html, css & bootstarp;
